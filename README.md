@@ -11,7 +11,11 @@ Abbeel(2004)の逆強化学習(projection method)を使う。強化学習は方�
 
 ## Usage
 > python Encoder.py
+
 で、list.txtを用いて単語列のIDを作る。
+
 そして、
+
 > python markov_irl.py
+
 で、逆強化学習による単語ごとの報酬が計算される。
