@@ -2,7 +2,7 @@
 """
 "Projection Method": Apprenticeship Learning via IRL
 
-@author: D. Kishikawa
+@author: D. Kamishima
 """
 
 import math
